@@ -1,0 +1,2 @@
+# Traffic-Sign-Recognition
+You may have heard about self-driving vehicles in which the passenger can rely solely on the vehicle to drive by itself. But to reach autonomous level 5, all traffic laws need to be recognized and observed by cars.  There are several different types of traffic signs like speed limits, no entry, traffic signals, turn left or right, children crossing, no passing of heavy vehicles, etc. Traffic signs classification is the process of identifying which class a traffic sign belongs to.
